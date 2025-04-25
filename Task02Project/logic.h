@@ -1,0 +1,1 @@
+void get_extreme_position(int** matrix, int n, int m, int& imin, int& jmin);
